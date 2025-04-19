@@ -19,3 +19,13 @@ export function saveTwee(source: string, filename: string) {
 
 	saveAs(data, filename);
 }
+
+/**
+ * Saves text to a JSON file. This works in either a browser or Electron
+ * context.
+ */
+export function saveJSON(source: string, filename: string) {
+	const data = new Blob([source], {type: 'text/plain;charset=utf-8'});
+
+	saveAs(data, filename);
+}

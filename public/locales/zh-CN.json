@@ -374,6 +374,7 @@
 		},
 		"build": {
 			"exportAsTwee": "导出为Twee",
+			"exportAsJSON": "导出为JSON",
 			"play": "运行",
 			"proof": "校对",
 			"publishToFile": "发布到文件",

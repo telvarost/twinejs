@@ -393,6 +393,7 @@
 		},
 		"build": {
 			"exportAsTwee": "Esporta come Twee",
+			"exportAsJSON": "Esporta come JSON",
 			"play": "Avvia",
 			"proof": "Bozza",
 			"publishToFile": "Pubblica su file",

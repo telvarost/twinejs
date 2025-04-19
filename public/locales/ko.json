@@ -378,6 +378,7 @@
 		},
 		"build": {
 			"exportAsTwee": "Twee로 내보내기",
+			"exportAsJSON": "JSON로 내보내기",
 			"play": "재생",
 			"proof": "교정",
 			"publishToFile": "파일로 출판",

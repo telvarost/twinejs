@@ -391,6 +391,7 @@
 		},
 		"build": {
 			"exportAsTwee": "Exportiere als Twee",
+			"exportAsJSON": "Exportiere als JSON",
 			"play": "Spiele",
 			"proof": "Korrektur",
 			"publishToFile": "Als Datei veröffentlichen",

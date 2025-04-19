@@ -386,6 +386,7 @@
 		},
 		"build": {
 			"exportAsTwee": "Exportovat jako Twee",
+			"exportAsJSON": "Exportovat jako JSON",
 			"play": "Přehrát",
 			"proof": "Korektura",
 			"publishToFile": "Exportovat",

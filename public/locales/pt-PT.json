@@ -390,7 +390,8 @@
 			"storyFormats": "Formatos de História"
 		},
 		"build": {
-			"exportAsTwee": "Exportar para o formato Twee",			
+			"exportAsTwee": "Exportar para o formato Twee",	
+			"exportAsJSON": "Exportar para o formato JSON",
 			"play": "Jogar",
 			"proof": "Rever",
 			"publishToFile": "Publicar para Ficheiro",
